@@ -1,24 +1,10 @@
-### Hi guys, I'm Robin - aka [Borecjeborec1][website] 👋
+### [Atzuki][website] 👋
 
 [![Website](https://img.shields.io/website?label=Borecjeborec1&style=for-the-badge&url=https://borecjeborec1.netlify.app)][website]
-[![Twitter Follow](https://img.shields.io/twitter/follow/borecjeborec1?color=1DA1F2&logo=twitter&style=for-the-badge)][twitter]
 
-## I'm a Friend, Student, Developer, and Cook !!
-
-- 📰 I just launched my blog: [Become A VS Code SuperHero!][blog]!
 - 👨‍👧‍👧 I’m looking to collaborate with others
-- 🏆 2021 Goals: Get better at coding 🤣
-- 🎂 I love to cook and bake
+- 🏆 2022 Goals: Get better at coding
 
-### Connect with me:
-
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-<br />
 
 ### Languages and Tools:
 
@@ -42,9 +28,4 @@
 <br />
 <br />
 
-[website]: https://borecjeborec1.netlify.app
-[twitter]: https://twitter.com/borecjeborec1
-[youtube]: https://youtube.com/borecjeborec1
-[instagram]: https://instagram.com/borecjeborec1
-[linkedin]: https://linkedin.com/in/borecjeborec1
-[blog]: https://borecjeborec1sblog.netlify.app
+[website]: https://atzuki.netlify.app
