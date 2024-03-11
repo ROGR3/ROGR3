@@ -1,18 +1,36 @@
-### [Atzuki][website]
+# Hello! I'm  Robin Grundel the Full-Stack Sorcerer 🧙‍♂️ 
 
-[![Website](https://img.shields.io/website?label=Atzuki&style=for-the-badge&url=https://atzuki.netlify.app)][website]
+Welcome to my magical realm of coding wonders! I am a passionate and seasoned Full-Stack Developer.
+
+* 🌍  I am situated in the Czech Republic, embracing the heart of Central Europe.
+* 🖥️  Delve into my portfolio by visiting [https://rogr.pages.dev/](http://rogr.pages.dev/)
+* ✉️  Feel free to reach out to me through the following email address: grundel.robin@post.cz.
+
+### 💻 Technologies & Tools
+
+I command a versatile arsenal of technologies, including but not limited to:
+
+- 🗣️ Languages:
+    - A1: Spanish
+    - A2: C++, R
+    - B1: German
+    - B2: English, GDScript
+    - C1: Typescript, Python
+    - C2: Czech
+- 🌐 Frontend: Vanilla, Vue, Angular
+- 🖥️ Backend: Node.js, Python
+- 🗄️ Databases: MongoDB
+- ☁️ Cloud: AWS
+- 🚀 Version Control: Git, GitHub
 
 
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="NPM" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png" />
-<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<img align="left" alt="Godot" width="26px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/godot/godot.png" />
-<img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
-<img align="left" alt="rust" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png" />
+### 🚀 Magic Spells
 
+Behold the spells I've mastered:
 
-[website]: https://atzuki.netlify.app
+- ✨ Ability to quit Vim without shedding a tear
+- 🕹️ Saving the situation with Ctrl + Alt + Del Sorcery
+- 🚀 Git Merge with Minimal Losses (only a few lives were sacrificed through my whole career) 
+- 💻 Debugging and Releasing with the Timeless Tool: The Crystal Ball 🔮
+
+### Thank you for visiting my magical GitHub repository! May your code be bug-free and your deploys swift.
