@@ -10,6 +10,12 @@ Welcome to my magical realm of coding wonders! I am a passionate and seasoned Fu
 
 I command a versatile arsenal of technologies, including but not limited to:
 
+
+- 🌐 Frontend: Vanilla, Vue, Angular
+- 🖥️ Backend: Node.js, Python
+- 🗄️ Databases: MongoDB
+- ☁️ Cloud: AWS
+- 🚀 Version Control: Git, GitHub
 - 🗣️ Languages:
     - A1: Spanish
     - A2: C++, R
@@ -17,12 +23,6 @@ I command a versatile arsenal of technologies, including but not limited to:
     - B2: English, GDScript
     - C1: Typescript, Python
     - C2: Czech
-- 🌐 Frontend: Vanilla, Vue, Angular
-- 🖥️ Backend: Node.js, Python
-- 🗄️ Databases: MongoDB
-- ☁️ Cloud: AWS
-- 🚀 Version Control: Git, GitHub
-
 
 ### 🚀 Magic Spells
 
