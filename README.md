@@ -29,7 +29,6 @@ I command a versatile arsenal of technologies, including but not limited to:
 Behold the spells I've mastered:
 
 - ✨ Ability to quit Vim without shedding a tear
-- 🕹️ Saving the situation with Ctrl + Alt + Del Sorcery
 - 🚀 Git Merge with Minimal Losses (only a few lives were sacrificed through my whole career) 
 - 💻 Debugging and Releasing with the Timeless Tool: The Crystal Ball 🔮
 
