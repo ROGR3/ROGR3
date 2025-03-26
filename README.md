@@ -4,7 +4,7 @@ Welcome to my magical realm of coding wonders! I am a passionate and seasoned Fu
 
 * 🌍  I am situated in the Czech Republic, embracing the heart of Central Europe.
 * 🖥️  Delve into my portfolio by visiting [https://rogr.pages.dev/](http://rogr.pages.dev/)
-* ✉️  Feel free to reach out to me through the following email address: grundel.robin@post.cz.
+* ✉️  Feel free to reach out to me through the following email address: robingrundel@seznam.cz.
 
 ### 💻 Technologies & Tools
 
