@@ -4,7 +4,7 @@ Fullstack developer & data analyst, Czechia.
 
 I'm a master's student in applied mathematics with a passion for programming. For the past few years I have worked mostly remotely for several clients in parallel: long-running fullstack development, plus data analysis on smaller engagements.
 
-- Portfolio: [rogr.pages.dev](https://rogr.pages.dev/)
+- Portfolio: [robingrundel.cz](https://robingrundel.cz/)
 - Email: [robingrundel@seznam.cz](mailto:robingrundel@seznam.cz)
 
 ## Tech stack
