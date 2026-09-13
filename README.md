@@ -1,35 +1,20 @@
-# Hello! I'm  Robin Grundel the Full-Stack Sorcerer 🧙‍♂️ 
+# Robin Grundel
 
-Welcome to my magical realm of coding wonders! I am a passionate and seasoned Full-Stack Developer.
+Fullstack developer & data analyst, Czechia.
 
-* 🌍  I am situated in the Czech Republic, embracing the heart of Central Europe.
-* 🖥️  Delve into my portfolio by visiting [https://rogr.pages.dev/](http://rogr.pages.dev/)
-* ✉️  Feel free to reach out to me through the following email address: robingrundel@seznam.cz.
+I'm a master's student in applied mathematics with a passion for programming. For the past few years I have worked mostly remotely for several clients in parallel: long-running fullstack development, plus data analysis on smaller engagements.
 
-### 💻 Technologies & Tools
+- Portfolio: [rogr.pages.dev](https://rogr.pages.dev/)
+- Email: [robingrundel@seznam.cz](mailto:robingrundel@seznam.cz)
 
-I command a versatile arsenal of technologies, including but not limited to:
+## Tech stack
 
+**Current focus:** Cursor, Python, Rust
 
-- 🌐 Frontend: Vanilla, Vue, Angular
-- 🖥️ Backend: Node.js, Python
-- 🗄️ Databases: MongoDB
-- ☁️ Cloud: AWS
-- 🚀 Version Control: Git, GitHub
-- 🗣️ Languages:
-    - A1: Spanish
-    - A2: C++, R
-    - B1: German
-    - B2: English, GDScript
-    - C1: Typescript, Python
-    - C2: Czech
+**Trained on:** TypeScript, Angular, Python, Godot
 
-### 🚀 Magic Spells
+I treat languages as tools rather than identity, with AI assistance I pick up whatever a project needs.
 
-Behold the spells I've mastered:
+---
 
-- ✨ Ability to quit Vim without shedding a tear
-- 🚀 Git Merge with Minimal Losses (only a few lives were sacrificed through my whole career) 
-- 💻 Debugging and Releasing with the Timeless Tool: The Crystal Ball 🔮
-
-### Thank you for visiting my magical GitHub repository! May your code be bug-free and your deploys swift.
+Email is the fastest way to reach me. I am not on social media at all.
